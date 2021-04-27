@@ -1,7 +1,7 @@
 # Site
 title:              'Choi Sulim'
-bio:                'Minimal, one column jekyll theme.'
-description:        "Choi Sulim is a minimal, one column jekyll theme for your blog."
+bio:                'Portfolio'
+description:        "Sulim's Portfolio"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 email:              'sulimchoi25@gmail.com'
 #twitter:            username
-facebook:           username
+#facebook:           username
 github-url:         https://github.com/slchoi01
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
