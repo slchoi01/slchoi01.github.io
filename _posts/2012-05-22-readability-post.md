@@ -8,7 +8,6 @@ comments: true
 ---
 
 # Numpy array 생성
-
 ---
 
 ### 파이썬 리스트를 통해 생성
@@ -120,7 +119,6 @@ print(array1)
 ```
 
 # Numpy 불린 연산
-
 ---
 
 ```python
@@ -159,7 +157,6 @@ array([5])
 ```
 
 # Numpy 기본 통계
-
 ---
 
 ### 최댓값, 최솟값
