@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neighborhood Processing 1"
-date: 2012-05-23
+date: 2021-05-04
 excerpt: "mask, spatial filtering, spatial convolution, frequencies"
 tags: [matlab, 영상처리]
 feature: http://i.imgur.com/Ds6S7lJ.png
