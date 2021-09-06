@@ -1,3 +1,11 @@
+---
+layout: post
+title: "정확도 ~ ROC_AUC"
+date: 2021-08-23
+excerpt: "정확도, 오차행렬, 정밀도와 재현율, F1 Score, ROC_AUC"
+tags: [machine learning, data science]
+comments: true
+---
 
 * 분류에 사용되는 성능 평가 지표에 대해 알아볼 것. 0과 1로 결정값이 한정되는 이진 분류의 성능 평가 지표에 대해 집중적으로 설명
 * 분류의 성능 평가 지표
