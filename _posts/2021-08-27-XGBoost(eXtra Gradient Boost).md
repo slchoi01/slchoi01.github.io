@@ -1,3 +1,11 @@
+---
+layout: post
+title: "XGBoost"
+date: 2021-08-27
+excerpt: "XGBoost(eXtra Gradient Boost) 정리"
+tags: [machine learning, data science]
+comments: true
+---
 
 ## 1. XGBoost 개요
 * XGBoost는 트리 기반의 앙상블 학습에서 많이 사용하는 알고리즘 중 하나. 압도적인 수치 차이는 아니지만, 분류에 있어 일반적으로 다른 머신러닝보다 뛰어난 예측 성능을 나타냄
@@ -708,7 +716,7 @@ plot_importance(xgb_model, ax=ax)
 
 
 
-![png](output_23_1.png)
+![png](https://github.com/slchoi01/slchoi01.github.io/blob/master/image/pymldg/ch4/output_23_1.png)
 
 
 ### 사이킷런 Wrapper XGBoost 개요 및 적용 
@@ -1180,10 +1188,6 @@ plot_importance(xgb_wrapper, ax=ax)
 
 
 
-![png](output_30_1.png)
+![png](https://github.com/slchoi01/slchoi01.github.io/blob/master/image/pymldg/ch4/output_30_1.png)
 
 
-
-```python
-
-```
